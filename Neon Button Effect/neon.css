@@ -1,0 +1,37 @@
+/* Element selector */
+elemento {
+
+}
+/* Class selector */
+.className {
+
+}
+/* Id selector */
+#elementId {
+
+}
+
+/* Star selector */
+* {
+	
+}
+
+/* Descendant Selector */
+elementoPai elementoFilho {
+
+}
+
+/* Adjacent Selector */
+elementoReferencia + elemento {
+	
+}
+
+/* Attribute Selector */
+elemento[atributo="valor"] {
+	
+}
+
+/* nth of type */
+elemento:nth-of-type(posicao){
+	
+}
